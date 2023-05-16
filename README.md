@@ -38,3 +38,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sheznan-navid&show_icons=true&locale=en" alt="sheznan-navid" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sheznan-navid&" alt="sheznan-navid" /></p>
+<p> Some of my work sample </p>
+<hr>
+<img Align="center" width="60%" src="https://github.com/sheznan-navid/me/blob/main/covid19.gif">
