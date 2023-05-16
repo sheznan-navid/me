@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sheznan Navid</h1>
 <h3 align="center">A passionate Full Stack developer from Bangladesh</h3>
-<img align="center" width="" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="center" height="300" width="100%" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sheznan-navid&label=Profile%20views&color=0e75b6&style=flat" alt="sheznan-navid" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sheznan-navid" alt="sheznan-navid" /></a> </p>
